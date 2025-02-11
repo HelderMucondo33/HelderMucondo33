@@ -26,8 +26,8 @@
 Tenho um imenso prazer por desenvolver soluções tecnológicas que ajudam a mudar a vida das pessoas, transformar organizações por meio das tecnologias da informação.
 
 ## Últimos Projetos:
--[Criando website para pedido de demonstração de software de gestão para uma clínica](https://oclinic.co.mz/)<br/>
--[Criando website para pedido de demonstração de software de gestão para uma escola](https://hakademic.co.mz/)<br/>
+-[Website para pedido de demonstração de software de gestão para uma clínica](https://oclinic.co.mz/)<br/>
+-[Website para pedido de demonstração de software de gestão para uma escola](https://hakademic.co.mz/)<br/>
 
 ## Proectos em Curso:
 -[Trabalhando em um software de gestão escolar]()<br/>

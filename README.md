@@ -10,7 +10,6 @@
 ![Helder GitHub stats](https://github-readme-stats-heldermucondo33.vercel.app/api?username=HelderMucondo33&show_icons=true&theme=dracula&count_private=true)
 
 
-
 ## Tecnologias que uso no meu dia a dia!
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">

@@ -28,6 +28,7 @@ Tenho um imenso prazer por desenvolver soluções tecnológicas que ajudam a mud
 ## Últimos Projetos:
 -[Website para pedido de demonstração de software de gestão para uma clínica](https://oclinic.co.mz/)<br/>
 -[Website para pedido de demonstração de software de gestão para uma escola](https://hakademic.co.mz/)<br/>
+-[E-commerce de venda Cursos Online](https://babilonia.co.mz/)<br/>
 
 ## Proectos em Curso:
 -[Trabalhando em um software de gestão escolar]()<br/>

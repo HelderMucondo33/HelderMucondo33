@@ -7,8 +7,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/helder.Oapaixonado)
 
 
-![Helder GitHub stats](https://github-readme-stats.vercel.app/api?username=HelderMucondo33&show_icons=true&theme=dracula
-)
+![Helder GitHub stats](https://github-readme-stats.vercel.app/api?username=HelderMucondo33&show_icons=true&theme=dracula&count_private=true)
+
 
 ## Tecnologias que uso no meu dia a dia!
 
@@ -26,12 +26,13 @@
 
 Tenho um imenso prazer por desenvolver soluções tecnológicas que ajudam a mudar a vida das pessoas, transformar organizações por meio das tecnologias da informação.
 
-## Últimos Projetos:
+## Últimos Projectos:
 -[Website para pedido de demonstração de software de gestão para uma clínica](https://oclinic.co.mz/)<br/>
 -[Website para pedido de demonstração de software de gestão para uma escola](https://hakademic.co.mz/)<br/>
--[E-commerce de venda de Cursos Online](https://babilonia.co.mz/)<br/>
 
-## Proectos em Curso:
+
+## Projectos em Curso:
 -[Trabalhando em um software de gestão escolar]()<br/>
+-[E-commerce de venda de Cursos Online](https://babilonia.co.mz/)<br/>
 
 

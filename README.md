@@ -7,7 +7,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/helder.Oapaixonado)
 
 
-![Helder GitHub stats](https://github-readme-stats.vercel.app/api?username=HelderMucondo33&show_icons=true&theme=dracula&count_private=true)
+![Helder GitHub stats](https://github-readme-stats-heldermucondo33.vercel.app/api?username=HelderMucondo33&show_icons=true&theme=dracula&count_private=true)
+
 
 
 ## Tecnologias que uso no meu dia a dia!

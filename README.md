@@ -30,9 +30,10 @@ Tenho um imenso prazer por desenvolver soluções tecnológicas que ajudam a mud
 ## Últimos Projectos:
 
 -[E-commerce de venda de Produtos, Serviços de Serigrafia, Design Gráfico etc](https://cnservicos.co.mz/)<br/>
+-[Plataforma online da Veyco Seguros para cotação e solicitação de seguros em Moçambique](https://veycoseguros.co.mz/)<br/>
 -[Website para pedido de demonstração de software de gestão para uma clínica](https://oclinic.co.mz/)<br/>
 -[Website para pedido de demonstração de software de gestão para uma escola](https://hakademic.co.mz/)<br/>
-
+-[Website para pedido de demonstração de software de gestão para uma escola](https://hakademic.co.mz/)<br/>
 
 ## Projectos em Curso:
 -[Trabalhando em um software de gestão escolar]()<br/>

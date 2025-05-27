@@ -37,6 +37,8 @@ Tenho um imenso prazer por desenvolver soluções tecnológicas que ajudam a mud
 
 ## Projectos em Curso:
 -[Trabalhando em um software de gestão escolar]()<br/>
+-[Trabalhando em um software de gestão para Maternidade]()<br/>
 -[E-commerce de venda de Cursos Online](https://babilonia.co.mz/)<br/>
+
 
 

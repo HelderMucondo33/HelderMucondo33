@@ -4,8 +4,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/258845736245)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heldermucondo@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helder_mucondo/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/helder.Oapaixonado)
-
 
 
 
@@ -29,6 +27,7 @@ Tenho um imenso prazer por desenvolver soluções tecnológicas que ajudam a mud
 
 ## Últimos Projectos:
 
+-[Plataforma integrada de gestão de transporte corporativo que permite o controlo de todo o processo operacional](https://igo-frontend-two.vercel.app/)<br/>
 -[E-commerce de venda de Produtos, Serviços de Serigrafia, Design Gráfico etc](https://cnservicos.co.mz/)<br/>
 -[Plataforma online da Veyco Seguros para cotação e solicitação de seguros em Moçambique](https://veycoseguros.co.mz/)<br/>
 -[Website para pedido de demonstração de software de gestão para uma clínica](https://oclinic.co.mz/)<br/>
